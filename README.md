@@ -11,13 +11,14 @@ Financial institutions require deep visibility into credit card usage patterns, 
 This project delivers two synchronized reporting views to solve this problem:
 1. **Credit Card Transaction Report:** Focuses on operational efficiency, revenue distribution, and purchasing modes.
 2. **Credit Card Customer Report:** Focuses on demographic segmentation, user retention, satisfaction profiles, and account delinquency risk.
-### Dashboard Previews
+### 🖼️ Dashboard Previews
 
 #### Credit Card Transaction Report
-![Credit Card Transaction Report](images/transaction_report.png)
+![Credit Card Transaction Report](transaction_report.png)
 
 #### Credit Card Customer Report
-![Credit Card Customer Report](images/customer_report.png)
+![Credit Card Customer Report](customer_report.png)
+
 
 
 ---
